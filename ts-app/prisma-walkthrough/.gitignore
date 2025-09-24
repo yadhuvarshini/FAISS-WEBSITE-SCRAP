@@ -6,3 +6,7 @@ node_modules
 /src/generated/prisma
 prisma/migrations/
 dist
+prisma/
+src/generated/
+prisma.txt
+

@@ -1,0 +1,8 @@
+myenv
+.env
+.vscode/
+.venv
+myenv/
+models/
+__pycache__/
+*.pyc
