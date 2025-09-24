@@ -9,4 +9,5 @@ dist
 prisma/
 src/generated/
 prisma.txt
+.vscode/
 
