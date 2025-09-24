@@ -14,3 +14,10 @@ ts-api/.env
 ts-api/src/dummy.ts
 ts-api/.env.local
 ts-api/prisma/migrations/
+
+ts/prisma-walkthrough/node_modules
+ts/prisma-walkthrough/dist
+ts/prisma-walkthrough/.env
+ts/prisma-walkthrough/.vscode
+ts/prisma-walkthrough/.env
+ts/prisma-walkthrough/src/generated/prisma
