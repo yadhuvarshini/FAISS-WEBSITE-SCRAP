@@ -3,4 +3,14 @@ myenv
 .vscode
 .venv
 myenv/
+models/
 
+ts-api/node_modules
+ts-api/dist
+.env
+.vscode
+ts-api/src/generated/prisma
+ts-api/.env
+ts-api/src/dummy.ts
+ts-api/.env.local
+ts-api/prisma/migrations/
